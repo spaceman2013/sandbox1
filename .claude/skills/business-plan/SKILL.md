@@ -1,3 +1,8 @@
+---
+name: business-plan
+description: Helps create a comprehensive business plan. Use when the user wants to build a business plan, pitch to investors, or clarify their business strategy. Walks through an interactive 8-step script covering basics, problem/solution, market, revenue, competition, operations, financials, and milestones, then assembles a complete document.
+---
+
 # Business Plan Generator
 
 Use this skill to create a comprehensive business plan. It walks you through each section interactively, then produces a complete document.
